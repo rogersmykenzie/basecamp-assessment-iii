@@ -38,7 +38,7 @@ class Chance extends Component {
   render() {
     return (
       <div class = "banner" id="bottom">
-        <h3>Unfortunately, according to my calculations you have a {this.props.prob} of winning :/</h3>
+        <h3>Unfortunately, according to my calculations you have a {this.props.prob}% chance of winning :/</h3>
       </div>
     )
   }
