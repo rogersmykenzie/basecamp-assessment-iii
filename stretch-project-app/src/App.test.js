@@ -7,7 +7,3 @@ it('renders without crashing', () => {
   ReactDOM.render(<App />, div);
   ReactDOM.unmountComponentAtNode(div);
 });
-
-function Welcome(props) {
-  return <h1>Hello, {props.name}</h1>
-}

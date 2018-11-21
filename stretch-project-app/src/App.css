@@ -1,4 +1,24 @@
-#test {
-  display: inline-block;
-  color: teal;
+#top {
+  width:98vw;
+  margin-left: 1vw;
+  background-color: pink;
+  text-align: center;
+  border-radius: 5px;
+}
+#josephi {
+  font-size: 5em;
+}
+#middle {
+  width: 98vw;
+  margin-left: 1vw;
+  background-color:purple;
+  text-align: center;
+  border-radius:5px;
+}
+#bottom {
+  width: 98vw;
+  margin-left: 1vw;
+  background-color: olive;
+  text-align: center;
+  border-radius: 5px;
 }
